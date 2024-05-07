@@ -11,7 +11,7 @@ global.email ="arabdulladev@gmail.com"
 global.location="Matara, Sri Lanka."
 
 
-global.mongodb= process.env.MONGODB_URI || "mongodb+srv://arabdullah:321465Aa.@@cluster0.oups6ui.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+global.mongodb= process.env.MONGODB_URI || "mongodb+srv://arabdullah:321465Aa.%40@cluster0.oups6ui.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
